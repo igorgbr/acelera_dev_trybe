@@ -15,7 +15,7 @@ com introdução a Orientação a Objeto.
 ## Introdução a Orientação a Objeto
 
 - [x] [Herança](https://github.com/igorgbr/acelera_dev_trybe/blob/main/heranca.py)
-- [x] [Composição](https://github.com/igorgbr/acelera_dev_trybe/blob/main/composicao.py
+- [x] [Composição](https://github.com/igorgbr/acelera_dev_trybe/blob/main/composicao.py)
 - [x] [Polimorfismo](https://github.com/igorgbr/acelera_dev_trybe/blob/main/polimorfismo.py)
 
 ## Métodos
